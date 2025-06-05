@@ -1,0 +1,125 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Aurora Playa Blanca",
+      "precio": 69000,
+      "precioOriginal": 130000,
+      "imagen": "../img/blanco.jpg",
+      "imagenes": [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_7177-amXxak74BotH3t5A0nIlbuEofgSwmZ.png",
+        "/../img/bikini.avif",
+        "/../img/bikini.avif",
+        "/../img/bikini.avif",
+        "/../img/bikini.avif",
+        "/../img/bikini.avif",
+        "/../img/bikini.avif",
+        "/../img/bikini.avif",
+        "/../img/bikini.avif"
+
+      ],
+      "inspiracion": "Inspirado en las arenas blancas de Playa Blanca",
+      "descripcion": "Bikini de dos piezas con diseño elegante y cómodo, perfecto para disfrutar de las cristalinas aguas del Caribe. Confeccionado con materiales de alta calidad que resisten el sol y el agua salada. Su corte favorecedor realza la figura mientras brinda comodidad durante todo el día.",
+      "tallas": ["S", "M", "L"],
+      "colores": ["Morado", "Azul Caribe"],
+      "playa": "Playa Blanca",
+      "categoria": "bikini",
+      "oferta": true
+    },
+    {
+      "id": 2,
+      "nombre": "Aurora Rodadero",
+      "precio": 69000,
+      "precioOriginal": 125900,
+      "imagen": "../img/amariilo.jpg",
+      "imagenes": [
+        "/placeholder.svg?height=400&width=300",
+        "/placeholder.svg?height=400&width=300",
+        "/placeholder.svg?height=400&width=300"
+      ],
+      "inspiracion": "Inspirado en la vibrante vida de El Rodadero",
+      "descripcion": "Enterizo moderno con cortes estratégicos que realzan la figura. Ideal para quienes buscan comodidad y estilo en las playas más populares de Santa Marta.",
+      "tallas": ["XS", "S", "M", "L", "XL"],
+      "colores": ["Coral Vibrante", "Turquesa"],
+      "playa": "El Rodadero",
+      "categoria": "enterizo",
+      "oferta": true
+    },
+    {
+      "id": 3,
+      "nombre": "Aurora Taganga",
+      "precio": 69000,
+      "precioOriginal": 95900,
+      "imagen": "../img/rojo.jpg",
+      "imagenes": [
+        "/placeholder.svg?height=400&width=300",
+        "/placeholder.svg?height=400&width=300",
+        "/placeholder.svg?height=400&width=300"
+      ],
+      "inspiracion": "Inspirado en la bahía de pescadores de Taganga",
+      "descripcion": "Diseño bohemio que captura la esencia relajada de Taganga. Con detalles artesanales que reflejan la cultura local de este pintoresco pueblo de pescadores.",
+      "tallas": ["XS", "S", "M", "L"],
+      "colores": ["Azul Océano", "Verde Esmeralda"],
+      "playa": "Taganga",
+      "categoria": "bikini",
+      "oferta": true
+    },
+    {
+      "id": 4,
+      "nombre": "Aurora Cabo San Juan",
+      "precio": 69000,
+      "precioOriginal": 135900,
+      "imagen": "../img/bikini.avif",
+      "imagenes": [
+        "/placeholder.svg?height=400&width=300",
+        "/placeholder.svg?height=400&width=300",
+        "/placeholder.svg?height=400&width=300"
+      ],
+      "inspiracion": "Inspirado en la majestuosidad de Cabo San Juan",
+      "descripcion": "Enterizo de lujo con acabados premium, diseñado para quienes aprecian la belleza natural del Parque Tayrona. Resistente y elegante para aventuras en playas vírgenes.",
+      "tallas": ["S", "M", "L", "XL"],
+      "colores": ["Negro Elegante", "Dorado Sunset"],
+      "playa": "Cabo San Juan - Tayrona",
+      "categoria": "enterizo",
+      "oferta": true
+    },
+    {
+      "id": 5,
+      "nombre": "Aurora Cristal Beach",
+      "precio": 69000,
+      "precioOriginal": 79900,
+      "imagen": "../img/bikini.avif",
+      "imagenes": [
+        "/placeholder.svg?height=400&width=300",
+        "/placeholder.svg?height=400&width=300",
+        "/placeholder.svg?height=400&width=300"
+      ],
+      "inspiracion": "Inspirado en las aguas cristalinas del Caribe",
+      "descripcion": "Bikini juvenil y fresco, perfecto para días de sol y diversión. Su diseño versátil lo hace ideal para actividades acuáticas y relajación en la playa.",
+      "tallas": ["XS", "S", "M", "L", "XL"],
+      "colores": ["Rosa Coral", "Amarillo Sol"],
+      "playa": "Cristal Beach",
+      "categoria": "bikini",
+      "oferta": true
+    },
+    {
+      "id": 6,
+      "nombre": "Aurora Bahía Concha",
+      "precio": 69000,
+      "precioOriginal": 115900,
+      "imagen": "../img/bikini.avif",
+      "imagenes": [
+        "/placeholder.svg?height=400&width=300",
+        "/placeholder.svg?height=400&width=300",
+        "/placeholder.svg?height=400&width=300"
+      ],
+      "inspiracion": "Inspirado en la tranquila Bahía Concha",
+      "descripcion": "Enterizo con diseño sofisticado que combina comodidad y elegancia. Perfecto para disfrutar de la serenidad de una de las bahías más hermosas de Santa Marta.",
+      "tallas": ["XS", "S", "M", "L"],
+      "colores": ["Azul Profundo", "Verde Jade"],
+      "playa": "Bahía Concha",
+      "categoria": "enterizo",
+      "oferta": true
+    }
+  ]
+}
