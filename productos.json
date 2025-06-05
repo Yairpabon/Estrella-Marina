@@ -5,17 +5,17 @@
       "nombre": "Aurora Playa Blanca",
       "precio": 69000,
       "precioOriginal": 130000,
-      "imagen": "/img/blanco.jpg",
+      "imagen": "img/blanco.jpg",
       "imagenes": [
-        "/img/blanco.jpg",
-        "/img/blanco.jpg",
-        "/img/blanco.jpg",
-        "/img/blanco.jpg",
-        "/img/blanco.jpg",
-        "/img/blanco.jpg",
-        "/img/blanco.jpg",
-        "/img/blanco.jpg",
-        "/img/blanco.jpg"
+        "img/blanco.jpg",
+        "img/blanco.jpg",
+        "img/blanco.jpg",
+        "img/blanco.jpg",
+        "img/blanco.jpg",
+        "img/blanco.jpg",
+        "img/blanco.jpg",
+        "img/blanco.jpg",
+        "img/blanco.jpg"
 
       ],
       "inspiracion": "Inspirado en las arenas blancas de Playa Blanca",
