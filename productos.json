@@ -5,17 +5,17 @@
       "nombre": "Aurora Playa Blanca",
       "precio": 69000,
       "precioOriginal": 130000,
-      "imagen": "img/blanco.jpg",
+      "imagen": "img/blanco.JPG",
       "imagenes": [
-        "img/blanco.jpg",
-        "img/blanco.jpg",
-        "img/blanco.jpg",
-        "img/blanco.jpg",
-        "img/blanco.jpg",
-        "img/blanco.jpg",
-        "img/blanco.jpg",
-        "img/blanco.jpg",
-        "img/blanco.jpg"
+        "img/blanco.JPG",
+        "img/blanco.JPG",
+        "img/blanco.JPG",
+        "img/blanco.JPG",
+        "img/blanco.JPG",
+        "img/blanco.JPG",
+        "img/blanco.JPG",
+        "img/blanco.JPG",
+        "img/blanco.JPG"
 
       ],
       "inspiracion": "Inspirado en las arenas blancas de Playa Blanca",
@@ -31,11 +31,11 @@
       "nombre": "Aurora Rodadero",
       "precio": 69000,
       "precioOriginal": 125900,
-      "imagen": "img/amariilo.jpg",
+      "imagen": "img/amariilo.JPG",
       "imagenes": [
-        "img/amariilo.jpg",
-        "img/amariilo.jpg",
-        "img/amariilo.jpg"
+        "img/amariilo.JPG",
+        "img/amariilo.JPG",
+        "img/amariilo.JPG"
       ],
       "inspiracion": "Inspirado en la vibrante vida de El Rodadero",
       "descripcion": "Enterizo moderno con cortes estratégicos que realzan la figura. Ideal para quienes buscan comodidad y estilo en las playas más populares de Santa Marta.",
@@ -50,11 +50,11 @@
       "nombre": "Aurora Taganga",
       "precio": 69000,
       "precioOriginal": 95900,
-      "imagen": "img/rojo.jpg",
+      "imagen": "img/rojo.JPG",
       "imagenes": [
-        "img/amariilo.jpg",
-        "img/amariilo.jpg",
-        "img/amariilo.jpg"
+        "img/amariilo.JPG",
+        "img/amariilo.JPG",
+        "img/amariilo.JPG"
       ],
       "inspiracion": "Inspirado en la bahía de pescadores de Taganga",
       "descripcion": "Diseño bohemio que captura la esencia relajada de Taganga. Con detalles artesanales que reflejan la cultura local de este pintoresco pueblo de pescadores.",
@@ -69,11 +69,11 @@
       "nombre": "Aurora Cabo San Juan",
       "precio": 69000,
       "precioOriginal": 135900,
-      "imagen": "../img/blanco.jpg",
+      "imagen": "../img/blanco.JPG",
       "imagenes": [
-        "img/amariilo.jpg",
-        "img/amariilo.jpg",
-        "img/amariilo.jpg"
+        "img/amariilo.JPG",
+        "img/amariilo.JPG",
+        "img/amariilo.JPG"
       ],
       "inspiracion": "Inspirado en la majestuosidad de Cabo San Juan",
       "descripcion": "Enterizo de lujo con acabados premium, diseñado para quienes aprecian la belleza natural del Parque Tayrona. Resistente y elegante para aventuras en playas vírgenes.",
@@ -88,11 +88,11 @@
       "nombre": "Aurora Cristal Beach",
       "precio": 69000,
       "precioOriginal": 79900,
-      "imagen": "img/blanco.jpg",
+      "imagen": "img/blanco.JPG",
       "imagenes": [
-        "img/amariilo.jpg",
-        "img/amariilo.jpg",
-        "img/amariilo.jpg"
+        "img/amariilo.JPG",
+        "img/amariilo.JPG",
+        "img/amariilo.JPG"
       ],
       "inspiracion": "Inspirado en las aguas cristalinas del Caribe",
       "descripcion": "Bikini juvenil y fresco, perfecto para días de sol y diversión. Su diseño versátil lo hace ideal para actividades acuáticas y relajación en la playa.",
@@ -107,11 +107,11 @@
       "nombre": "Aurora Bahía Concha",
       "precio": 69000,
       "precioOriginal": 115900,
-      "imagen": "img/rojo.jpg",
+      "imagen": "img/rojo.JPG",
       "imagenes": [
-        "img/rojo.jpg",
-        "img/rojo.jpg",
-        "img/amariilo.jpg"
+        "img/rojo.JPG",
+        "img/rojo.JPG",
+        "img/amariilo.JPG"
       ],
       "inspiracion": "Inspirado en la tranquila Bahía Concha",
       "descripcion": "Enterizo con diseño sofisticado que combina comodidad y elegancia. Perfecto para disfrutar de la serenidad de una de las bahías más hermosas de Santa Marta.",
