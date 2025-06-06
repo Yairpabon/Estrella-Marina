@@ -306,7 +306,7 @@ function configurarListenersProducto(producto) {
 
 ¿Podrías darme más información sobre disponibilidad y envío a Santa Marta?`
 
-      const urlWhatsapp = `https://wa.me/573001112233?text=${encodeURIComponent(mensaje)}`
+      const urlWhatsapp = `https://wa.me/573135562237?text=${encodeURIComponent(mensaje)}`
       window.open(urlWhatsapp, "_blank")
     })
   }
