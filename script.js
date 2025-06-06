@@ -191,7 +191,7 @@ function crearHTMLDetalleProducto(producto) {
       </div>
       
       <div class="info-detalle-producto">
-        <div class="marca-producto">SANTAMARTASWIMWEAR.COM</div>
+        <div class="marca-producto">EstrelladelMar.COM</div>
         <h1 class="titulo-producto">${producto.nombre}</h1>
         
         <div class="precios-producto">
@@ -206,7 +206,7 @@ function crearHTMLDetalleProducto(producto) {
             <path d="M12 6v6l4 2"/>
           </svg>
           <div class="texto-pago">
-            <strong>Paga con Addi en hasta 6 cuotas.</strong> Pide un cupo
+            <strong>No te quedes sin el tuyo.</strong> Aprovecha 
           </div>
         </div>
         
